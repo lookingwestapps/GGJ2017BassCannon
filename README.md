@@ -15,7 +15,7 @@ Use three different guns to shoot sound waves at different targets. The vases sh
 
 ### Download and Play
 
-- [Download Windows Version](https://drive.google.com/open?id=0BwLMZrrTVyLpekVKNkpDZEJFbzA)
+- [Download Windows Version](https://drive.google.com/file/d/0Bwd1_fKY-mXCUW5yZC1laTBMX2M/view?usp=sharing)
 To play in VR, run StartupInVr.bat, which adds the -vr command after the .exe file.
 
 ### Controls
